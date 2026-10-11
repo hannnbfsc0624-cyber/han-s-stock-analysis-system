@@ -1,0 +1,30 @@
+ticker,broker,date,rating,target_price,url
+FPT,ASEAN Securities,2026-06-02,KHẢ QUAN,91.8,https://www.aseansc.com.vn/bao-cao-phan-tich-co-phieu-fpt-02-06-2026-khuyen-nghi-kha-quan-23/
+FPT,Mirae Asset,2026-03-10,MUA,98.73,http://static1.vietstock.vn/edocs/19297/1773129118955_VN_FPT_Report_4Q25_ed.pdf
+HPG,ASEAN Securities,2026-06-30,KHẢ QUAN,30.8,https://www.aseansc.com.vn/bao-cao-phan-tich-cong-ty-co-phan-tap-doan-hoa-phat-hpg/
+HPG,ACBS,2025-11-25,MUA,35.7,https://dulieu.nguoiquansat.vn/bao-cao-phan-tich-chi-tiet-qfzviwnjxg18145
+HPG,KAFI,2026-09-25,KHẢ QUAN,31.4,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,MBS,2026-09-18,KHẢ QUAN,32.0,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,KBSV,2026-09-07,MUA,32.1,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,SHINHAN,2026-08-21,MUA,35.9,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,MAS,2026-08-12,MUA,30.0,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,ACBS,2026-08-06,MUA,33.8,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,VDS,2026-06-12,MUA,30.8,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,DSC,2026-06-03,MUA,37.6,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,Vietcap,2026-06-01,MUA,38.9,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,VNDS,2026-05-25,TRUNG LẬP,33.2,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,SHS,2026-05-20,MUA,32.9,https://simplize.vn/co-phieu/HPG/bao-cao
+HPG,NHSV,2026-05-14,MUA,31.0,https://simplize.vn/co-phieu/HPG/bao-cao
+FPT,KBSV,2026-09-15,MUA,78.1,https://simplize.vn/co-phieu/FPT/bao-cao
+FPT,SHINHAN,2026-09-14,MUA,84.0,https://simplize.vn/co-phieu/FPT/bao-cao
+FPT,MAS,2026-08-26,MUA,81.0,https://simplize.vn/co-phieu/FPT/bao-cao
+FPT,ACBS,2026-08-07,MUA,90.9,https://simplize.vn/co-phieu/FPT/bao-cao
+FPT,FPTS,2026-06-19,MUA,86.1,https://simplize.vn/co-phieu/FPT/bao-cao
+FPT,Vietcap,2026-06-12,MUA,81.5,https://simplize.vn/co-phieu/FPT/bao-cao
+FPT,BSC,2026-05-18,MUA,80.9,https://simplize.vn/co-phieu/FPT/bao-cao
+VNM,FPTS,2026-08-14,MUA,71.6,https://simplize.vn/co-phieu/VNM/bao-cao
+VNM,KAFI,2026-08-13,KHẢ QUAN,70.7,https://simplize.vn/co-phieu/VNM/bao-cao
+VNM,SHINHAN,2026-08-11,MUA,79.6,https://simplize.vn/co-phieu/VNM/bao-cao
+VNM,MAS,2026-08-04,MUA,86.8,https://simplize.vn/co-phieu/VNM/bao-cao
+VNM,ACBS,2026-05-11,MUA,70.1,https://simplize.vn/co-phieu/VNM/bao-cao
+VNM,KBSV,2026-03-23,TRUNG LẬP,61.1,https://simplize.vn/co-phieu/VNM/bao-cao
